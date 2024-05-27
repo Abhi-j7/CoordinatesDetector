@@ -1,0 +1,22 @@
+Hey Viewer!
+This project is all about coordinates detector. The main motive of this project is to use Google API key  and to find the latitude
+and the longitude of an entred address. This project is useful to figure out the accurate coordinates of a particular location entred.
+The entire project is developed in python as to understand the working of the code when integrated with Google API keys.
+In order to maintain the accuracy of the location, I have used the google API key and the Google Maps API key, which improved the 
+accuracy level of finding the latitude & longitude of a particular location.
+
+This project is suitable to work in the domain of Security surveillance systems, defence radar systems and 
+other related category of defence systems where coordiantes are to be measured for counter stricks at high terrains of warefare.
+
+To set-up this project, follow the below:
+1. Enable Google API's (Google Colud Console -> new project -> Enable Geocoding API)
+2. Enable Google Maps API key
+3. In order to support Google Coding API, install the python "requests" library.
+-> Sysntax:: " pip install requests "
+4. use the Source code and replace your generated API KEY in the code mentioned*.
+5. Replace the address to find the coordinates in the source code;
+
+*Note : While generating your API keys, do make sure to ceate API credentials for the API to be used.
+And your good to go with the project!!
+
+-Abhishek Kalasapur
